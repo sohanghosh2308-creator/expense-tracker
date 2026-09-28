@@ -2,6 +2,9 @@
 
 A modern, responsive, and feature-complete Expense Tracker SPA built with **React**, **Vite**, **Tailwind CSS**, and **Recharts**.
 
+🔗 **Live Website:** [https://sohan231001102178.github.io/expense-tracker/](https://sohan231001102178.github.io/expense-tracker/)  
+📦 **GitHub Repository:** [https://github.com/Sohan231001102178/expense-tracker](https://github.com/Sohan231001102178/expense-tracker)
+
 ---
 
 ## 🎯 Problem Statement Fulfillment
